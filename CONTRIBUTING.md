@@ -76,4 +76,4 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 
 ## Questions?
 
-Open an issue or reach out on [GitHub Discussions](https://github.com/ameyalambat128/swiftui-skills/discussions).
+[Open a GitHub issue](https://github.com/ameyalambat/swiftui-skills/issues).

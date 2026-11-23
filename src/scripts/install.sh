@@ -247,7 +247,7 @@ trap cleanup EXIT
 
 # Download skill files
 print_step "Downloading skill files..."
-REPO_RAW="https://raw.githubusercontent.com/ameyalambat128/swiftui-skills/main"
+REPO_RAW="https://raw.githubusercontent.com/ameyalambat/swiftui-skills/main"
 
 curl -fsSL "$REPO_RAW/skills/swiftui-skills/SKILL.md" -o "$TMP_DIR/SKILL.md"
 curl -fsSL "$REPO_RAW/skills/swiftui-skills/manifest.json" -o "$TMP_DIR/manifest.json"

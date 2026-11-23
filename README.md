@@ -30,7 +30,7 @@ The installer extracts local Xcode docs and installs the skill into detected run
 You can also use the skills TUI:
 
 ```bash
-npx skills add ameyalambat128/swiftui-skills
+npx skills add ameyalambat/swiftui-skills
 ```
 
 Choose the install scope in the `skills` TUI and keep `Symlink (Recommended)` selected.
@@ -229,11 +229,11 @@ bash src/scripts/uninstall.sh
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=ameyalambat128%2Fswiftui-skills&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ameyalambat%2Fswiftui-skills&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ameyalambat128/swiftui-skills&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ameyalambat128/swiftui-skills&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ameyalambat128/swiftui-skills&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ameyalambat/swiftui-skills&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ameyalambat/swiftui-skills&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ameyalambat/swiftui-skills&type=date&legend=top-left" />
  </picture>
 </a>
 

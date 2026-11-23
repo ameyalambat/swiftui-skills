@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const defaultOwner = "ameyalambat128";
+const defaultOwner = "ameyalambat";
 const defaultRepo = "swiftui-skills";
 const cacheControlHeader = "s-maxage=3600, stale-while-revalidate=300";
 

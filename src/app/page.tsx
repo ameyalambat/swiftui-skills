@@ -121,7 +121,7 @@ export default function Home() {
             <h1 className="text-3xl font-bold tracking-tight gradient-text">
               /swiftui-skills
             </h1>
-            <GitHubStars username="ameyalambat128" repo="swiftui-skills" />
+            <GitHubStars username="ameyalambat" repo="swiftui-skills" />
           </div>
 
           <p className="mt-4 text-lg text-gray-100">
@@ -226,7 +226,7 @@ export default function Home() {
 
           <div className="mt-4 flex gap-4">
             <Link
-              href="https://github.com/ameyalambat128/swiftui-skills"
+              href="https://github.com/ameyalambat/swiftui-skills"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-gray-400 transition-colors hover:text-white hover:underline"
@@ -426,7 +426,7 @@ export default function Home() {
             </p>
             <div className="flex gap-4">
               <Link
-                href="https://github.com/ameyalambat128/swiftui-skills"
+                href="https://github.com/ameyalambat/swiftui-skills"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-gray-400 transition-colors hover:text-white hover:underline"
@@ -434,7 +434,7 @@ export default function Home() {
                 GitHub repository
               </Link>
               <Link
-                href="https://github.com/ameyalambat128/swiftui-skills/issues"
+                href="https://github.com/ameyalambat/swiftui-skills/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-gray-400 transition-colors hover:text-white hover:underline"
@@ -514,7 +514,7 @@ export default function Home() {
                 <XIcon size={14} />
               </Link>
               <Link
-                href="https://github.com/ameyalambat128/swiftui-skills"
+                href="https://github.com/ameyalambat/swiftui-skills"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center transition-colors hover:text-white"

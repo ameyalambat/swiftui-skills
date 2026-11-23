@@ -5,7 +5,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 
 const curlCommand =
   "curl -fsSL https://swiftui-skills.ameyalambat.com/install | bash";
-const npxCommand = "npx skills add ameyalambat128/swiftui-skills";
+const npxCommand = "npx skills add ameyalambat/swiftui-skills";
 const globalSetupCommand = "~/.agents/skills/swiftui-skills/setup.sh";
 const localSetupCommand = "./.agents/skills/swiftui-skills/setup.sh";
 const openClawSharedLines = [
